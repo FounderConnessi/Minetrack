@@ -168,5 +168,50 @@
 		"name": "MyVanilla",
 		"ip": "myvanilla.my.to",
 		"type": "PC"
+	},
+	{
+		"name": "ItaMC",
+		"ip": "mc.itamc.it",
+		"type": "PC"
+	},
+	{
+		"name": "Kay-Es",
+		"ip": "mc.kay-es.com",
+		"type": "PC"
+	},
+	{
+		"name": "MintMC",
+		"ip": "play.mintmc.it",
+		"type": "PC"
+	},
+	{
+		"name": "AquariusMC",
+		"ip": "play.aquariusmc.it",
+		"type": "PC"
+	},
+	{
+		"name": "AgeofFeuds",
+		"ip": "mc.ageoffeuds.it",
+		"type": "PC"
+	},
+	{
+		"name": "HydraMC",
+		"ip": "play.hydramc.it",
+		"type": "PC"
+	},
+	{
+		"name": "IronCraft",
+		"ip": "mc.ironcraft.it",
+		"type": "PC"
+	},
+	{
+		"name": "Ninfea",
+		"ip": "play.ninfea.fun",
+		"type": "PC"
+	},
+	{
+		"name": "AresNetwork",
+		"ip": "aresnetwork.it",
+		"type": "PC"
 	}
 ]
