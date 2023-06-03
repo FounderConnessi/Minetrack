@@ -5,8 +5,7 @@ node_modules/
 minetrack.log
 
 # minetrack/sqlite3
-database.sql
-database.sql-journal
+data/
 
 # macOS
 .DS_Store
