@@ -100,13 +100,18 @@
         "type": "PC"
     },
     {
-        "name": "TecnoCraft",
-        "ip": "play.tecnocraft.net",
+        "name": "TecnoRoleplay",
+        "ip": "mc.tecnoroleplay.com",
         "type": "PC"
     },
     {
         "name": "RgbCraft",
         "ip": "mc.rgbcraft.com",
+        "type": "PC"
+    },
+    {
+        "name": "Age of Feuds",
+        "ip": "mc.ageoffeuds.it",
         "type": "PC"
     },
     {
@@ -152,6 +157,11 @@
     {
         "name": "ItaMC",
         "ip": "mc.itamc.it",
+        "type": "PC"
+    },
+    {
+        "name": "Regno di Zeal",
+        "ip": "zealand.minecraft.pro",
         "type": "PC"
     },
     {
