@@ -100,11 +100,6 @@
         "type": "PC"
     },
     {
-        "name": "TecnoRoleplay",
-        "ip": "mc.tecnoroleplay.com",
-        "type": "PC"
-    },
-    {
         "name": "RgbCraft",
         "ip": "mc.rgbcraft.com",
         "type": "PC"
@@ -185,8 +180,8 @@
         "type": "PC"
     },
     {
-        "name": "KnightLegion",
-        "ip": "play.knightlegion.eu",
+        "name": "OnePixelMine",
+        "ip": "mc.onepixelmine.it",
         "type": "PC"
     }
 ]
