@@ -183,5 +183,65 @@
         "name": "OnePixelMine",
         "ip": "mc.onepixelmine.it",
         "type": "PC"
+    },
+    {
+        "name": "PurpleMC",
+        "ip": "mc.purplemc.it",
+        "type": "PC"
+    },
+    {
+        "name": "StaryMC",
+        "ip": "mc.starymc.it",
+        "type": "PC"
+    },
+    {
+        "name": "RookieMC",
+        "ip": "mc.rookiemc.it",
+        "type": "PC"
+    },
+    {
+        "name": "ShynoMC",
+        "ip": "play.shynomc.it",
+        "type": "PC"
+    },
+    {
+        "name": "SulfurMC",
+        "ip": "mc.sulfurmc.it",
+        "type": "PC"
+    },
+    {
+        "name": "DragonCraft",
+        "ip": "mc.dragoncraft.it",
+        "type": "PC"
+    },
+    {
+        "name": "BuinCraft",
+        "ip": "mc.buincraft.it",
+        "type": "PC"
+    },
+    {
+        "name": "RankuenMC",
+        "ip": "mc.rankuenmc.it",
+        "type": "PC"
+    },
+    {
+        "name": "PrymaCommunity",
+        "ip": "mc.prymacommunity.it",
+        "type": "PC"
+    },
+    {
+        "name": "ForignoRP",
+        "ip": "mc.folignorp.it",
+        "type": "PC"
+    },
+    {
+        "name": "DomusMC",
+        "ip": "mc.domusmc.it",
+        "type": "PC"
+    },
+    {
+        "name": "AtlantisRP",
+        "ip": "play.atlantisrp.it",
+        "type": "PC"
     }
 ]
