@@ -186,7 +186,7 @@
     },
     {
         "name": "PurpleMC",
-        "ip": "mc.purplemc.it",
+        "ip": "play.purplemc.it",
         "type": "PC"
     },
     {
@@ -196,7 +196,7 @@
     },
     {
         "name": "RookieMC",
-        "ip": "mc.rookiemc.it",
+        "ip": "play.rookiemc.eu",
         "type": "PC"
     },
     {
@@ -221,7 +221,7 @@
     },
     {
         "name": "RankuenMC",
-        "ip": "mc.rankuenmc.it",
+        "ip": "mc.rankuenmc.com",
         "type": "PC"
     },
     {
@@ -230,13 +230,13 @@
         "type": "PC"
     },
     {
-        "name": "ForignoRP",
-        "ip": "mc.folignorp.it",
+        "name": "FolignoRP",
+        "ip": "foligno.minecraft.pro",
         "type": "PC"
     },
     {
         "name": "DomusMC",
-        "ip": "mc.domusmc.it",
+        "ip": "mc.domusitalia.net",
         "type": "PC"
     },
     {
