@@ -50,11 +50,6 @@
         "type": "PC"
     },
     {
-        "name": "ObsidianCraft",
-        "ip": "mc.obsidiancraft.it",
-        "type": "PC"
-    },
-    {
         "name": "HaleaNetwork",
         "ip": "play.haleanetwork.net",
         "type": "PC"
@@ -75,18 +70,8 @@
         "type": "PC"
     },
     {
-        "name": "Eldaria",
-        "ip": "mc.eldaria.it",
-        "type": "PC"
-    },
-    {
         "name": "CoralMC",
         "ip": "play.coralmc.it",
-        "type": "PC"
-    },
-    {
-        "name": "FutureCraft",
-        "ip": "mc.futurecraft.it",
         "type": "PC"
     },
     {
@@ -150,23 +135,13 @@
         "type": "PC"
     },
     {
-        "name": "ItaMC",
-        "ip": "mc.itamc.it",
-        "type": "PC"
-    },
-    {
         "name": "Regno di Zeal",
-        "ip": "zealand.minecraft.pro",
+        "ip": "mc.regnodizeal.it",
         "type": "PC"
     },
     {
         "name": "MintMC",
         "ip": "play.mintmc.it",
-        "type": "PC"
-    },
-    {
-        "name": "AquariusMC",
-        "ip": "play.aquariusmc.it",
         "type": "PC"
     },
     {
@@ -180,33 +155,8 @@
         "type": "PC"
     },
     {
-        "name": "OnePixelMine",
-        "ip": "mc.onepixelmine.it",
-        "type": "PC"
-    },
-    {
-        "name": "PurpleMC",
-        "ip": "play.purplemc.it",
-        "type": "PC"
-    },
-    {
         "name": "StaryMC",
         "ip": "mc.starymc.it",
-        "type": "PC"
-    },
-    {
-        "name": "RookieMC",
-        "ip": "play.rookiemc.eu",
-        "type": "PC"
-    },
-    {
-        "name": "ShynoMC",
-        "ip": "play.shynomc.it",
-        "type": "PC"
-    },
-    {
-        "name": "SulfurMC",
-        "ip": "mc.sulfurmc.it",
         "type": "PC"
     },
     {
@@ -230,11 +180,6 @@
         "type": "PC"
     },
     {
-        "name": "FolignoRP",
-        "ip": "foligno.minecraft.pro",
-        "type": "PC"
-    },
-    {
         "name": "DomusMC",
         "ip": "mc.domusitalia.net",
         "type": "PC"
@@ -242,6 +187,21 @@
     {
         "name": "AtlantisRP",
         "ip": "play.atlantisrp.it",
+        "type": "PC"
+    },
+    {
+        "name": "WaveMC",
+        "ip": "play.icenetwork.it",
+        "type": "PE"
+    },
+    {
+        "name": "IceNetwork",
+        "ip": "play.icenetwork.it",
+        "type": "PC"
+    },
+    {
+        "name": "EverCraft",
+        "ip": "mc.evercraft.it",
         "type": "PC"
     }
 ]
