@@ -19,7 +19,7 @@ export class SocketManager {
 
     // The backend will automatically push data once connected
     this._webSocket.onopen = () => {
-      this._app.caption.set('Loading...')
+      this._app.caption.set('Caricamento...')
 
       // Reset reconnection scheduling since the WebSocket has been established
       this._reconnectDelayBase = 0
@@ -33,9 +33,9 @@ export class SocketManager {
       // See https://developer.mozilla.org/en-US/docs/Web/API/CloseEvent
       // Treat other codes as active errors (besides connectivity errors) when displaying the message
       if (event.code === 1006) {
-        this._app.caption.set('Lost connection!')
+        this._app.caption.set('Connessione persa!')
       } else {
-        this._app.caption.set('Disconnected due to error.')
+        this._app.caption.set('Disconnesso per un errore.')
       }
 
       // Schedule socket reconnection attempt
@@ -152,14 +152,14 @@ export class SocketManager {
         clearInterval(reconnectInterval)
 
         // Update displayed text
-        this._app.caption.set('Reconnecting...')
+        this._app.caption.set('Riconnessione...')
 
         // Attempt reconnection
         // Only attempt when reconnectDelaySeconds === 0 and not <= 0, otherwise multiple attempts may be started
         this.createWebSocket()
       } else if (this._reconnectDelaySeconds > 0) {
         // Update displayed text
-        this._app.caption.set(`Reconnecting in ${this._reconnectDelaySeconds}s...`)
+        this._app.caption.set(`Riconnessione in ${this._reconnectDelaySeconds}s...`)
       }
     }, 1000)
   }

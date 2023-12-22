@@ -1,12 +1,12 @@
 const SORT_OPTIONS = [
   {
-    getName: () => 'Players',
+    getName: () => 'Giocatori',
     sortFunc: (a, b) => b.playerCount - a.playerCount,
     highlightedValue: 'player-count'
   },
   {
     getName: (app) => {
-      return `${app.publicConfig.graphDurationLabel} Peak`
+      return `Picco di ${app.publicConfig.graphDurationLabel}`
     },
     sortFunc: (a, b) => {
       if (!a.lastPeakData && !b.lastPeakData) {

@@ -91,7 +91,7 @@ export class ServerRegistration {
             if (typeof playerCount !== 'number') {
               this._app.tooltip.hide()
             } else {
-              this._app.tooltip.set(pos.left, pos.top, 10, 10, `${formatNumber(playerCount)} Players<br>${formatTimestampSeconds(this._graphData[0][id])}`)
+              this._app.tooltip.set(pos.left, pos.top, 10, 10, `${formatNumber(playerCount)} giocatori<br>${formatTimestampSeconds(this._graphData[0][id])}`)
             }
           } else {
             this._app.tooltip.hide()
@@ -229,7 +229,7 @@ export class ServerRegistration {
       this._renderValue('record', (element) => {
         if (ping.recordData.timestamp > 0) {
           element.innerText = `${formatNumber(ping.recordData.playerCount)} (${formatDate(ping.recordData.timestamp)})`
-          element.title = `At ${formatDate(ping.recordData.timestamp)} ${formatTimestampSeconds(ping.recordData.timestamp)}`
+          element.title = `Il ${formatDate(ping.recordData.timestamp)} ${formatTimestampSeconds(ping.recordData.timestamp)}`
         } else {
           element.innerText = formatNumber(ping.recordData.playerCount)
         }
@@ -255,7 +255,7 @@ export class ServerRegistration {
 
       // If the frontend has freshly connection, and the server's last ping was in error, it may not contain an error object
       // In this case playerCount will safely be null, so provide a generic error message instead
-      this._renderValue('error', 'Failed to ping')
+      this._renderValue('error', 'Fallito il ping')
     } else if (typeof ping.playerCount === 'number') {
       this._hideValue('error')
       this._renderValue('player-count', formatNumber(ping.playerCount))
@@ -284,8 +284,8 @@ export class ServerRegistration {
       <div class="column column-status">
         <h3 class="server-name"><span class="${this._app.favoritesManager.getIconClass(this.isFavorite)}" id="favorite-toggle_${this.serverId}"></span> ${this.data.name}</h3>
         <span class="server-error" id="error_${this.serverId}"></span>
-        <span class="server-label" id="player-count_${this.serverId}">Players: <span class="server-value" id="player-count-value_${this.serverId}"></span></span>
-        <span class="server-label" id="peak_${this.serverId}">${this._app.publicConfig.graphDurationLabel} Peak: <span class="server-value" id="peak-value_${this.serverId}">-</span></span>
+        <span class="server-label" id="player-count_${this.serverId}">Giocatori: <span class="server-value" id="player-count-value_${this.serverId}"></span></span>
+        <span class="server-label" id="peak_${this.serverId}">Picco di ${this._app.publicConfig.graphDurationLabel}: <span class="server-value" id="peak-value_${this.serverId}">-</span></span>
         <span class="server-label" id="record_${this.serverId}">Record: <span class="server-value" id="record-value_${this.serverId}">-</span></span>
         <span class="server-label" id="version_${this.serverId}"></span>
       </div>

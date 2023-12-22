@@ -107,7 +107,7 @@ export function formatTimestampSeconds (secs) {
 export function formatDate (secs) {
   const date = new Date(0)
   date.setUTCSeconds(secs)
-  return date.toLocaleDateString()
+  return date.toLocaleDateString('it-IT')
 }
 
 export function formatPercent (x, over) {
