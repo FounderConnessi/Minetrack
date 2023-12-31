@@ -198,5 +198,15 @@
         "name": "EverCraft",
         "ip": "mc.evercraft.it",
         "type": "PC"
+    },
+    {
+        "name": "ZeroMC",
+        "ip": "play.zeromc.it",
+        "type": "PC"
+    },
+    {
+        "name": "GravityMC",
+        "ip": "play.gravitymc.it",
+        "type": "PC"
     }
 ]
