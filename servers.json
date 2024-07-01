@@ -1,17 +1,7 @@
 [
     {
-        "name": "Dracarys",
-        "ip": "dracarys.pro",
-        "type": "PC"
-    },
-    {
-        "name": "FearGames",
-        "ip": "mc.feargames.it",
-        "type": "PC"
-    },
-    {
-        "name": "RubyCraft",
-        "ip": "mc.rubycraft.it",
+        "name": "MetaMC",
+        "ip": "metamc.it",
         "type": "PC"
     },
     {
@@ -20,48 +10,8 @@
         "type": "PC"
     },
     {
-        "name": "FusionWorld",
-        "ip": "mc.fusionworld.it",
-        "type": "PC"
-    },
-    {
-        "name": "MetaMC",
-        "ip": "metamc.it",
-        "type": "PC"
-    },
-    {
         "name": "Kibelius",
         "ip": "kibelius.com",
-        "type": "PC"
-    },
-    {
-        "name": "OverLands",
-        "ip": "mc.overlands.online",
-        "type": "PC"
-    },
-    {
-        "name": "Titanet",
-        "ip": "mc.titanet.it",
-        "type": "PC"
-    },
-    {
-        "name": "HaleaNetwork",
-        "ip": "play.haleanetwork.net",
-        "type": "PC"
-    },
-    {
-        "name": "2ManyMines",
-        "ip": "mc.2manymines.it",
-        "type": "PC"
-    },
-    {
-        "name": "PeterNetwork",
-        "ip": "peternetwork.it",
-        "type": "PC"
-    },
-    {
-        "name": "NovaCraft",
-        "ip": "mc.novacraft.it",
         "type": "PC"
     },
     {
@@ -70,38 +20,13 @@
         "type": "PC"
     },
     {
-        "name": "ViperNetwork",
-        "ip": "mc.vipernetwork.it",
+        "name": "MyVanilla",
+        "ip": "myvanilla.my.to",
         "type": "PC"
     },
     {
-        "name": "ElytariaClub",
-        "ip": "mc.elytaria.club",
-        "type": "PC"
-    },
-    {
-        "name": "RgbCraft",
-        "ip": "mc.rgbcraft.com",
-        "type": "PC"
-    },
-    {
-        "name": "Age of Feuds",
-        "ip": "mc.ageoffeuds.it",
-        "type": "PC"
-    },
-    {
-        "name": "CrabMC",
-        "ip": "play.crabmc.it",
-        "type": "PC"
-    },
-    {
-        "name": "AtlasMC",
-        "ip": "play.atlasmc.it",
-        "type": "PC"
-    },
-    {
-        "name": "OceanWay",
-        "ip": "mc.oceanway.it",
+        "name": "RubyCraft",
+        "ip": "mc.rubycraft.it",
         "type": "PC"
     },
     {
@@ -110,8 +35,38 @@
         "type": "PC"
     },
     {
-        "name": "RebornAge",
-        "ip": "mc.Reborn-Age.it",
+        "name": "FearGames",
+        "ip": "mc.feargames.it",
+        "type": "PC"
+    },
+    {
+        "name": "Age of Feuds",
+        "ip": "mc.ageoffeuds.it",
+        "type": "PC"
+    },
+    {
+        "name": "PeterNetwork",
+        "ip": "peternetwork.it",
+        "type": "PC"
+    },
+    {
+        "name": "Titanet",
+        "ip": "mc.titanet.it",
+        "type": "PC"
+    },
+    {
+        "name": "EdenMine",
+        "ip": "mc.edenmine.eu",
+        "type": "PC"
+    },
+    {
+        "name": "Eldaria",
+        "ip": "mc.eldaria.it",
+        "type": "PC"
+    },
+    {
+        "name": "ElytariaClub",
+        "ip": "mc.elytaria.club",
         "type": "PC"
     },
     {
@@ -120,38 +75,28 @@
         "type": "PC"
     },
     {
-        "name": "EasyMC",
-        "ip": "easymc.it",
+        "name": "HaleaNetwork",
+        "ip": "play.haleanetwork.net",
         "type": "PC"
     },
     {
-        "name": "MyVanilla",
-        "ip": "myvanilla.my.to",
+        "name": "ArenaCraft",
+        "ip": "mc.arenacraft.it",
         "type": "PC"
     },
     {
-        "name": "Regno di Zeal",
-        "ip": "mc.regnodizeal.it",
+        "name": "ViperNetwork",
+        "ip": "mc.vipernetwork.it",
         "type": "PC"
     },
     {
-        "name": "MintMC",
-        "ip": "play.mintmc.it",
-        "type": "PC"
-    },
-    {
-        "name": "HydraMC",
-        "ip": "play.hydramc.it",
+        "name": "AtlasMC",
+        "ip": "play.atlasmc.it",
         "type": "PC"
     },
     {
         "name": "Palladiums",
         "ip": "mc.palladiums.it",
-        "type": "PC"
-    },
-    {
-        "name": "StaryMC",
-        "ip": "mc.starymc.it",
         "type": "PC"
     },
     {
@@ -165,16 +110,6 @@
         "type": "PC"
     },
     {
-        "name": "RankuenMC",
-        "ip": "mc.rankuenmc.com",
-        "type": "PC"
-    },
-    {
-        "name": "PrymaCommunity",
-        "ip": "mc.prymacommunity.it",
-        "type": "PC"
-    },
-    {
         "name": "DomusMC",
         "ip": "mc.domusitalia.net",
         "type": "PC"
@@ -185,13 +120,13 @@
         "type": "PC"
     },
     {
-        "name": "WaveMC",
-        "ip": "play.icenetwork.it",
-        "type": "PE"
+        "name": "ShardanaCraft",
+        "ip": "play.shardanacraft.it",
+        "type": "PC"
     },
     {
-        "name": "IceNetwork",
-        "ip": "play.icenetwork.it",
+        "name": "Kscraft",
+        "ip": "kscraft.fun",
         "type": "PC"
     },
     {
@@ -200,13 +135,33 @@
         "type": "PC"
     },
     {
-        "name": "ZeroMC",
-        "ip": "play.zeromc.it",
+        "name": "LuxiNova",
+        "ip": "play.luxinova.net",
         "type": "PC"
     },
     {
-        "name": "GravityMC",
-        "ip": "play.gravitymc.it",
+        "name": "LonelinessMC",
+        "ip": "mc.loneliness.it",
+        "type": "PC"
+    },
+    {
+        "name": "CrabMC",
+        "ip": "play.crabmc.it",
+        "type": "PC"
+    },
+    {
+        "name": "BlazeMC",
+        "ip": "play.blazemc.eu",
+        "type": "PC"
+    },
+    {
+        "name": "IslandMC",
+        "ip": "play.islandmc.cc",
+        "type": "PC"
+    },
+    {
+        "name": "PacificMC",
+        "ip": "play.pacificmc.it",
         "type": "PC"
     }
 ]
