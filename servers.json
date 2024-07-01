@@ -145,11 +145,6 @@
         "type": "PC"
     },
     {
-        "name": "CrabMC",
-        "ip": "play.crabmc.it",
-        "type": "PC"
-    },
-    {
         "name": "BlazeMC",
         "ip": "play.blazemc.eu",
         "type": "PC"
